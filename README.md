@@ -5,3 +5,5 @@ you should get a file like "Rgncraft-main" or something. in there is a folder, d
 
 also huge thanks to ronetic becaause we collabed on this
 
+Message by ronetic:thanks lightningmc09 for helping me make this texture pack :]
+
